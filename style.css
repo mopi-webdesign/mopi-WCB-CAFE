@@ -84,7 +84,7 @@ img {
 }
 #home {
     /* background-image: linear-gradient(#c9ffbf, #ffafbd); */
-    background-image: url(../images/background.jpg);
+    background-image: url(background.jpg);
     /* background-color: #0bd; */
     /* background-blend-mode: luminosity; */
     min-height: 100vh;
