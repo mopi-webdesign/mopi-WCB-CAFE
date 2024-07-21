@@ -84,7 +84,7 @@ img {
 }
 #home {
     /* background-image: linear-gradient(#c9ffbf, #ffafbd); */
-    background-image: background.jpg;
+    background-image: url(background.jpg);
     /* background-color: #0bd; */
     /* background-blend-mode: luminosity; */
     min-height: 100vh;
@@ -95,7 +95,7 @@ img {
 
 /* NEWS-------------------------- */
 #news {
-    background-image: url(../images/entrance.jpg);
+    background-image: url(entrance.jpg);
     background-position: 0 70%; /* 写真のポジションの指定、指定しないと写真の上部が表示されてしまう */
     height: 270px;
     margin-bottom: 40px;
