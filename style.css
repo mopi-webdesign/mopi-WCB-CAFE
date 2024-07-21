@@ -84,7 +84,7 @@ img {
 }
 #home {
     /* background-image: linear-gradient(#c9ffbf, #ffafbd); */
-    background-image: url(background.jpg);
+    background-image: url(https://github.com/mopi-webdesign/mopi-WCB-CAFE/blob/main/background.jpg?raw=true);
     /* background-color: #0bd; */
     /* background-blend-mode: luminosity; */
     min-height: 100vh;
