@@ -342,7 +342,7 @@ footer p {
         align-items: center;
     }
     #home {
-        min-height: 100vh;
+        padding-bottom: 66.6%;
     }
 
     /* NEWS */
@@ -398,7 +398,7 @@ footer p {
         height: auto;
     }
     #menu {
-        background-position: bottom;
+        background-position: 0 68%;
     }
 
     /* CONTACT */
