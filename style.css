@@ -379,15 +379,8 @@ footer p {
     .post-cat {
         margin-left: 80px;
     }
-    /* #news {
-        background-position: 0 70%;
-    } */
-
+    
     /* MENU */
-    #menu {
-        max-height: 50vh;
-        background-position: bottom;
-    }
     .menu-content {
         margin-top: 20%;
     }
@@ -400,9 +393,6 @@ footer p {
     }
 
     /* CONTACT */
-    #contact {
-        background-size: contain;
-        background-position: 0 85%;
     }
     #contact .page-title {
         margin-top: 40px;
