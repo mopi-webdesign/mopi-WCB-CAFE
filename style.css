@@ -335,7 +335,7 @@ footer p {
 
     /* HOME */
     #home {
-        height: 100%;
+        height: 300px;
     }
     .home-content {
         margin-top: 20%;
