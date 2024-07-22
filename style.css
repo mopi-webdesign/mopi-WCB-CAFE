@@ -385,7 +385,7 @@ footer p {
 
     /* MENU */
     #menu {
-        min-width: 100vw;
+        max-height: 50vh;
         background-position: bottom;
     }
     .menu-content {
