@@ -335,7 +335,7 @@ footer p {
 
     /* HOME */
     #home {
-        width: 100%;
+        background-size: contain;
     }
     .home-content {
         margin-top: 20%;
@@ -388,8 +388,8 @@ footer p {
 
     /* MENU */
     #menu {
+        background-size: contain;
         background-position: bottom;
-        min-height: 100vh;
     }
     .menu-content {
         margin-top: 20%;
@@ -404,8 +404,8 @@ footer p {
 
     /* CONTACT */
     #contact {
+        background-size: contain;
         background-position: 0 85%;
-        min-height: 100vh;
     }
     #contact .page-title {
         margin-top: 40px;
