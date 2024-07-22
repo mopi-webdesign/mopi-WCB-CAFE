@@ -388,7 +388,8 @@ footer p {
 
     /* MENU */
     #menu {
-        background-position: 0 68%;
+        background-position: bottom;
+        min-height: 100vh;
     }
     .menu-content {
         margin-top: 20%;
@@ -404,6 +405,7 @@ footer p {
     /* CONTACT */
     #contact {
         background-position: 0 85%;
+        min-height: 100vh;
     }
     #contact .page-title {
         margin-top: 40px;
