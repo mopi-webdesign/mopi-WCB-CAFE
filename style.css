@@ -334,9 +334,6 @@ footer p {
     }
 
     /* HOME */
-    #home {
-        background-size: contain;
-    }
     .home-content {
         margin-top: 20%;
     }
@@ -388,7 +385,7 @@ footer p {
 
     /* MENU */
     #menu {
-        background-size: contain;
+        min-width: 100vw;
         background-position: bottom;
     }
     .menu-content {
