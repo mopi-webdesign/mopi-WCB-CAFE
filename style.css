@@ -342,7 +342,7 @@ footer p {
         align-items: center;
     }
     #home {
-        padding-bottom: 66.6%;
+        max-height: 100vh;
     }
 
     /* NEWS */
