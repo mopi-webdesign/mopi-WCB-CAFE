@@ -320,7 +320,7 @@ footer p {
 }
 
 /* モバイル版----------------------- */
-@media (max-width: 600px) {
+@media　screen and (max-width: 600px) {
     .page-title {
         font-size: 2.5rem;
         text-align: center; /* タイトルを中央揃え */
@@ -331,6 +331,7 @@ footer p {
     }
     #home {
         background-position: center center; /* 画像の中心を表示 */
+    }
     
     /* HEADER */
     .main-nav {
@@ -386,6 +387,7 @@ footer p {
     /* 広告 */
     .ad {
         display: none;
+    }
     
     /* MENU */
     .menu-content {
