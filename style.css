@@ -330,7 +330,7 @@ footer p {
         align-items: center;
     }
     #home {
-        background-position: center center; /* 画像の中心を表示 */
+        background-position: 63%;
     }
     
     /* HEADER */
@@ -384,6 +384,7 @@ footer p {
     .post-cat {
         margin-left: 80px;
     }
+
     /* 広告 */
     .ad {
         display: none;
@@ -393,13 +394,13 @@ footer p {
     .menu-content {
         margin-top: 20%;
     }
-    /* .big-box {
+    .big-box {
         grid-column: auto;
         grid-row: auto;
     }
     .big-box img {
         height: auto;
-    } */
+    }
 
     /* CONTACT */
     #contact .page-title {
