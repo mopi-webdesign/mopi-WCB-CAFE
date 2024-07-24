@@ -383,6 +383,9 @@ footer p {
     .post-cat {
         margin-left: 80px;
     }
+    /* 広告 */
+    .ad {
+        display: none;
     
     /* MENU */
     .menu-content {
