@@ -87,6 +87,7 @@ img {
     background-image: url(https://github.com/mopi-webdesign/mopi-WCB-CAFE/blob/main/background.jpg?raw=true);
     /* background-color: #0bd; */
     /* background-blend-mode: luminosity; */
+    background-size: cover;
     min-height: 100vh;
 }
 #home .page-title {
