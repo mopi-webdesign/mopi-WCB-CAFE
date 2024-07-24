@@ -329,7 +329,7 @@ footer p {
         flex-direction: column;
         align-items: center;
     }
-    #home, #news, #contact {
+    #home {
         background-position: center center; /* 画像の中心を表示 */
     
     /* HEADER */
